@@ -1,2 +1,2 @@
 # Constraint-Layout
-Kotlin app para aprendizado de layout
+Kotlin app utilizando scroll view e Constraints no layout
