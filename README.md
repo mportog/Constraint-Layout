@@ -1,2 +1,2 @@
-# Constraint-Layout
-Kotlin app para aprendizado de layout
+# Guidelines-Layout
+Kotlin app utilizando Constraints, ScrollView e Guidelines para a criação do layout
